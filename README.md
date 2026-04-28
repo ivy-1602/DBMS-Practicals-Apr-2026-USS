@@ -115,16 +115,12 @@ Start here based on your situation:
 ## 📄 License
 
 MIT License — use it, learn from it, build your own themed database.
-(Recommend: pick something you actually like. It helps at 1am.)
 
 ---
 
 ## 📝 Final Note
 
 This repo isn't trying to be a database textbook.
-It's trying to be an honest record of what it looks like
-to learn SQL for the first time while also having taste.
-
 Some queries could be more optimized.
 Some schema decisions could be debated.
 The trigger that capitalizes `Lavender Haze` is non-negotiable.
