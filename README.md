@@ -73,25 +73,6 @@ Simple schema. Surprisingly emotional data.
 
 ---
 
-## The Real Learning
-
-**DDL taught me:**
-- Schema design is a conversation with your future self
-- `ALTER TABLE` exists because nobody gets it right the first time
-- `DROP TABLE IF EXISTS` is just good manners
-
-**DML taught me:**
-- Data is only as interesting as what you ask it
-- `GROUP BY` + `HAVING` is the SQL equivalent of "but specifically..."
-- Nested queries are just queries having a conversation with themselves
-
-**Triggers & Procedures taught me:**
-- Automation feels like magic until you forget you set it up
-- `lavender haze` being stored as `Lavender Haze` is correct, actually
-- The database can do things on its own and that is mildly terrifying
-
----
-
 ## Navigation
 
 Start here based on your situation:
