@@ -95,7 +95,7 @@ Start here based on your situation:
 
 ## 📄 License
 
-MIT License — use it, learn from it, build your own themed database. Made for eDucaTIonAl PurPoSe
+MIT License — use it, learn from it, build your own themed database. Made for eDucaTIonAl PurPoSe OnLy
 
 ---
 
