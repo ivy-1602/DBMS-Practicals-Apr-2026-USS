@@ -16,7 +16,7 @@ From ER diagrams to triggers, from nested queries to views — all of it runs on
 ```
 DBMS-Practicals/
 ├── TaylorSwift_DBMS.sql   → All 6 assignments in one clean file
-├── ER_Diagram.png         → Chen notation ER diagram (made in Notion)
+├── ER_Diagram.png         → Chen notation ER diagram (made in Figma)
 └── README.md              → You are here
 ```
 
