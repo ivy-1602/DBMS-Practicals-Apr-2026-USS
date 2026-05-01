@@ -5,7 +5,7 @@ _One database. Twelve albums. A semester of queries._
 
 ## What's This?
 
-My Semester 3 DBMS lab work — 6 assignments built entirely around Taylor Swift's discography because if you have to write SQL for hours, you might as well make it about something that interests you.
+My Semester 3 DBMS lab work — 6 assignments built entirely around Taylor Swift's discography because if you have to write SQL for hours, you might as well make it about something that interests you ;)
 
 From ER diagrams to triggers, from nested queries to views — all of it runs on a database of 12 studio albums and their songs.
 
